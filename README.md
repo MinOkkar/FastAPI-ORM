@@ -1,6 +1,6 @@
 ## Dependicies
 
--FastAPI – The web framework you're using to build the API.
+-FastAPI – The web framework to build the API.
 
 -SQLAlchemy – For database ORM functionality.
 
